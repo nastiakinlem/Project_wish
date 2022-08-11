@@ -142,3 +142,98 @@ header nav ul li:last-of-type a{
     display: flex;
     justify-content: center
 }
+.portfolio{
+    background-image: url("../images/list1.jpg");
+    min-height: 600px;
+    background-size: cover;
+    position: relative;
+    justify-content: flex-end;
+    align-items: center;
+    display: flex;
+}
+.sub_container{
+    max-width: 300px;
+    margin-right: 62px;
+}
+.portfolio .sub_container h3{
+    font-family: 'Poppins',sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #403E3B;
+}
+.portfolio .sub_container p{
+    font-family: 'Poppins',sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #645C55;
+}
+.second_portfolio{
+    background-image: url("../images/portfolio.jpg");
+    min-height: 600px;
+    background-size: cover;
+    position: relative;
+    justify-content: flex-end;
+    align-items: center;
+    display: flex;
+}
+.second_container{
+    max-width: 300px;
+    margin-right: 62px;
+}
+.second_portfolio .second_container h3{
+    font-family: 'Poppins',sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #403E3B;
+}
+.second_portfolio .second_container p{
+    font-family: 'Poppins',sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #645C55;
+
+}
+.third_portfolio{
+background-image: url("../images/port2.jpg");
+    min-height: 600px;
+    background-size: cover;
+    position: relative;
+    justify-content: flex-start;
+    align-items: center;
+    display: flex;
+}
+.third_container{
+    max-width: 300px;
+    margin-left: 62px;
+}
+.third_portfolio .third_container h3{
+    font-family: 'Poppins',sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #403E3B;
+}
+.third_portfolio .third_container p{
+    font-family: 'Poppins',sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #645C55;
+}
+
