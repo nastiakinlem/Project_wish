@@ -236,4 +236,62 @@ background-image: url("../images/port2.jpg");
     line-height: 24px;
     color: #645C55;
 }
+.partners_pictures{
+    background: #403E3B;
+   padding-top: 100px;
+    padding-bottom: 100px ;
+
+
+}
+.block_size{
+    max-width: 1200px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.partners_paragraf{
+    max-width: 451px;
+    margin-left: 136px;
+}
+.partners_pictures .partners_paragraf h3{
+    font-family: 'Poppins',sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 38px;
+    color: #FFFFFF;
+}
+.prior_clients{
+    font-family: 'Poppins',sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #ECE7E4;
+}
+.morbi{
+    font-family: 'Poppins',sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    color: #ECE7E4;
+    margin-top: 14px;
+}
+.bloki_decoration{
+    max-width: 352px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+}
+.partenrs_size{
+    margin-bottom: 96px;
+}
+
+
+
 
